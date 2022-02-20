@@ -8,7 +8,7 @@ This workshop is an introduction to blockchain data analysis for people interest
 
 1. Press the Binder Button below to start a hosted interactive Jupyter Notebook Session
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enderYm/ethccworkshopdataanalytics.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CaronSch/ethdenver-bufficornanalytics.git/HEAD)
 
 2. Navigate to the Notebooks Directory and open the Jupyter Notebook
 3. Follow and Code along
